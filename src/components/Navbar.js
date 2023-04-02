@@ -34,7 +34,7 @@ const Navbar = () => {
             </Link>
             <ul className={click ? "nav-menu " : "nav-menu active"}>
                 <li>
-                    <Link to="/">Home</Link>
+                    <Link to="/http://localhost:3001/myportfoliowebsite">Home</Link>
                 </li>
                 <li>
                     <Link to="/myportfoliowebsite/project">Project</Link>
